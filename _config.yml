@@ -12,7 +12,8 @@ compass:
   tagline: "1100 Johnson Road
   Unit #16581 <br>
   Golden, CO <br>
-  80402"
+  80402<br><br>
+  INFO@HOVAL.CO"
   # if include_content is true, the contents of the content.html include will be
   # added right above the generated item list, if present
   include_content: true
@@ -21,7 +22,7 @@ compass:
   # Tracking Code to that file.
   include_analytics: false
   # Twitter @username (as defined by the Twitter Card specs)
-  twitter: 
+  twitter:
 
 # exclude
 exclude: ["CNAME", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
